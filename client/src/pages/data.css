@@ -1,0 +1,18 @@
+.grid_item {
+  padding-top: 30px;
+}
+
+.box {
+  width: 1100px;
+  height: 280px;
+  padding-top: 30px;
+  margin-left: 30px;
+  background-color: white;
+  text-align: center;
+
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  border: 1px solid #0088cc;
+
+}

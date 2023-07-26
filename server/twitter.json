@@ -1,0 +1,103 @@
+[
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " shri suriya",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " praveen",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " nimesh",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " raj",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " ram",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " shri ",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " nithish",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " rahul",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " naveen",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " shri suriya",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	},
+	{
+		"url": "www.twitter.com",
+		"tweet_link":"twitter","user_id": " shri suriya",
+		"hastag": "#name",
+		"retweet_count": "10",
+		"share_count": 20,
+		"description": "tweetlink","following" : 200,
+		"followers": 100
+	}
+	
+
+]

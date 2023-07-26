@@ -1,0 +1,28 @@
+/* .App{
+    width:100vw;
+    height:100vh;
+    background-color:whitesmoke;
+}
+.body{
+    margin:0;
+    padding:0;
+}
+.sidebar{
+    height:100%;
+    width: 230px;
+    background-color:rgb(44, 44, 44);
+}
+.link{
+    content: flex;
+} */
+.app {
+    display: flex;
+    height: 100%;
+    }
+    
+    .main-content {
+    margin-left: 200px;
+ 
+    }
+    
+    

@@ -1,0 +1,42 @@
+.sidebar {
+  background-color: #0088cc;
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+.Leo {
+  width: 110px;
+  padding: 20px;
+}
+
+.sidebar-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.sidebar-item {
+  padding: 20px;
+}
+
+.sidebar-link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  display: block;
+}
+
+.sidebar-item:hover {
+  color: #0088cc;
+  background-color: #fff;
+
+}
+
+.sidebar-link:hover {
+  color: #0088cc;
+  background-color: #fff;
+
+}

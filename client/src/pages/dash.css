@@ -1,0 +1,112 @@
+/* 
+style={{ display: "inline-block", margin: 10 }}
+style={{ padding: 20, backgroundColor: "#eee" }}
+/* .cards-container1{
+  position:fixed;
+} */
+.search{
+
+    /* padding: 30px 120px; */
+    background-color:#0088cc;  
+    /* position:fixed; */
+    padding: 30px;
+    padding-left: 293px;
+}
+.button{
+   width:70px;
+   height: 36px;
+}
+ul.sidebar-nav {
+  padding-top: 19px;
+}
+input.input {
+  height: 30px;
+  width: 390px;
+}
+
+.cards-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* border-style: solid; */
+    /* border-color: red; */
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .card {
+    margin-left:50px;
+    margin-top: 35px;
+    width: 75%;
+    height: 270px;
+    background-color: #fff;
+    box-shadow: 0 11px 53px 0 rgb(0 0 0 / 8%);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    position: sticky;
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+  }
+  
+
+  
+.card h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+  }
+
+  .cards-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* border-style: solid; */
+    /* border-color: red; */
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .card1 {
+    margin-left:50px;
+    margin-top: 35px;
+    width: 71%;
+    height: 242px;
+    background-color: #fff;
+    box-shadow: 0 11px 53px 0 rgb(0 0 0 / 8%);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    position: sticky;
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+  }
+
+
+  .card img {
+    width: 47%;
+    height: 95px;
+    object-fit: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding-top: 45px;
+  }
+
+  img {
+    width: 130px;
+    padding: 20px;
+}
+
+.card1 h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+}
